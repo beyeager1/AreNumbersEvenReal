@@ -1,4 +1,5 @@
-This folder contains an adaptation of the Sternberg (1966, 1969a) working memory task that was written by me, Brooke Yeager, in PsychToolbox.
+This folder contains an adaptation of the Sternberg (1966, 1969a) working memory task that was written by me, Brooke Yeager, in PsychToolbox. Big thanks to Rachel Cole, PhD, a post-doc in the Narayanan Lab for helping me learn PsychToolbox and debug with me. 
+
 
 'TargetTrialsScript_WM' is a script needed to use the main 'SternbergWM_YeagerCode' script. 
 The task is able to be run with EEG and has corresponding triggers for presentation of encoding trials, probe trials, and responses, with separate triggers sent for matched and non-matched trials. 
