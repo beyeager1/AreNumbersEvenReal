@@ -6,3 +6,5 @@ The task is able to be run with EEG and has corresponding triggers for presentat
 
 Output data consists of accuracy and reaction time, as well as information regarding the stimuli presented and whether trials are matched or non-matched. 
 Comments within the MATLAB files can be found regarding these data points. 
+
+Last updated and reuploaded: June 09, 2021*
