@@ -32,7 +32,7 @@ block=BlockNum; % 0 = Practice trials; 1 = Working Memory Test trials
     Screen('FillRect',myscreen,black); % black screen
     Screen(myscreen, 'Flip');
 
-    Screen('TextFont',myscreen,'Arial');  
+    Screen('TextFont',myscreen,'Century Gothic');  
     Screen('TextStyle',myscreen,0);
     Screen('TextColor',myscreen,[255 255 255]);
     Screen('TextSize',myscreen,50);
