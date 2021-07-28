@@ -13,6 +13,7 @@ This folder also contains a Sentence Comprehension task that was primarily coded
 
 This task has participants respond to whether audio-read sentences make logical sense or not. The stimuli consist of abstract action, literal action, metaphoric action, and nonsense sentences. 
 These audio stimuli were obtained from Desai, R. H., Binder, J. R., Conant, L. L., Mano, Q. R., & Seidenberg, M. S. (2011). The neural career of sensory-motor metaphors. Journal of cognitive neuroscience, 23(9), 2376-2386.
+You can access these audio files by reaching out the authors of that paper.
 
 There are several informational files in this folder for this task, including 'senmet-stimuli_MAster', 'Stimuli and type', 'Stimuli'. and 'stimuli2audio'. The 'Stimuli' folder contains all audio stimuli and the 'select' folder contains audio stimuli as well. 
 The actual task file is named "SentenceComprehension". 
